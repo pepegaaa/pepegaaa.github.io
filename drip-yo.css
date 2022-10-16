@@ -1,0 +1,232 @@
+body{
+
+    background-image: url(mainbg.jpg);
+    background-repeat: repeat;
+    
+}
+
+.interest{
+    background-color: none; border-style:solid; border-color: #eee62b;
+    height: 331px;
+    position: absolute;
+    top: 1840px;
+    z-index: 10;
+}
+
+.img{
+    height: 112px;
+    width: 470px;
+    margin-left: 19px;
+}
+
+#btn{
+    font-size: 18px;
+    font-weight: bold;
+    color: yellow;
+    background-color: black;
+    padding: 1px 49px 0px 42px;
+    border-radius: 13px;
+    box-shadow: black 4px 10px 13px;
+    margin-left: 203px;
+    margin-right: -19px;
+    cursor: pointer;
+   
+}
+
+h2{
+    font-family: mess;
+    font-size: 50px;
+    color: white;
+    font-family: 'Comforter Brush', cursive;
+    margin-bottom: 1px;
+}
+
+.links{
+    text-align: center; 
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.container{
+    background-color: #eee62b; border-style:solid; border-color: #eee62b;
+    display: flex;
+    height: 117px;
+}
+
+.yo{
+
+    border-style: solid;
+    border-color: #eee62b;
+    height: 339px;
+    display: flex;
+}
+
+#rgt{
+    margin-left: auto; 
+    margin-right: 40px;
+}
+
+#inp{
+    height: 23px;
+    width: 101px;
+    padding-right: 223px;
+    padding-left: 50px;
+    margin-bottom: 5px;
+    margin-right: 47px;
+    margin-top: -3px;
+
+}
+#fine{
+    font-size: 30px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+#dine{
+    font-size: 30px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+
+li{
+    font-size: 35px;
+    font-weight: bold;
+}
+
+ul{
+    list-style: none;
+    margin-left: -23px;
+    margin-top: 0px;
+}
+
+p{
+
+    margin-left: 212px;
+    /* font-size: 36; */
+    
+}
+
+a{
+    text-decoration: none;
+    text-decoration-color: black;
+    color: black;
+}
+
+.text{
+    color: white;
+    margin: 30px;
+}
+
+.notbold{
+    font-weight: normal;
+    font-size: 27px;
+}
+
+.tex{
+    color: white;
+    z-index: 1;
+}
+
+.bold{
+    font-weight: bold;
+}
+.bold2{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+/* images-sources */
+
+.lust{
+    position: relative;
+    top: -829px;
+    left: 326px;
+}
+
+.krystal{
+    position: relative;
+    top: -2255px;
+    left: 876px;
+    transform: rotate(6deg);
+    width: 449px;
+}
+.smokin{
+    position: relative;
+    top: -1427px;
+    left: -471px;
+    transform: rotate(-20deg);
+}
+
+.jessie{
+    position: relative;
+    top: -1110px;
+    left: 948px;
+}
+
+.booba{
+    position: relative;
+    top: 493px;
+    left: 115px;
+    z-index: 0;
+}
+
+.sexy{
+    position: relative;
+    top: -956px;
+    left: -286px;
+    height: 474px;
+    width: 670px;
+}
+
+.airbro{
+    position: relative;
+    top: -990px;
+    left: -19px;
+    height: 458px;
+    width: 436px;
+}
+
+.jessie2{
+    position: relative;
+    top: -1100px;
+    left: 397px;
+    height: 411px;
+    width: 509px;
+}
+
+/* micro-texts */
+.fenix{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    top: -544px;
+    left: 780px;
+    font-weight: bold;
+}
+.sexyladiess{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    top: -2000px;
+    left: 42px;
+    font-weight: bold;
+}
+
+.airBro{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    top: -1573px;
+    left: 153px;
+    font-weight: bold;
+}
+.dirt{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    top: -783px;
+    left: -46px;
+    font-weight: bold;
+}
