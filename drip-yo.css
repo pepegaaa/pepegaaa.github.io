@@ -6,7 +6,8 @@ body{
 }
 
 .interest{
-    background-color: none; border-style:solid; border-color: #eee62b;
+    background-color: black; border-style:solid; border-color: #eee62b;
+    opacity: 0.8;
     height: 331px;
     position: absolute;
     top: 1840px;
